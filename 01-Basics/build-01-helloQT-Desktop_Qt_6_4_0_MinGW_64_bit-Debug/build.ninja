@@ -180,7 +180,7 @@ build 01-helloQT_autogen/timestamp 01-helloQT_autogen/mocs_compilation.cpp | ${c
 #############################################
 # Phony custom command for CMakeFiles\01-helloQT_autogen_timestamp_deps
 
-build CMakeFiles/01-helloQT_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/01-helloQT_autogen_timestamp_deps: phony C$:/Qt/6.4.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.4.0/mingw_64/./bin/moc.exe
+build CMakeFiles/01-helloQT_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/01-helloQT_autogen_timestamp_deps: phony C$:/Qt/6.4.0/mingw_64/./bin/moc.exe C$:/Qt/6.4.0/mingw_64/lib/libQt6Core.a
 
 
 #############################################
