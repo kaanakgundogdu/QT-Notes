@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8c428bb8a97413f0db45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01-helloQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-helloQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-helloQT-Debug-367fedabbdaca4bf6fe7.json",
+					"name" : "01-helloQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01-helloQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-helloQT_autogen-Debug-80f09afbe10767e0b2e7.json",
+					"name" : "01-helloQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "01-helloQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-helloQT_autogen_timestamp_deps-Debug-72e3144e77f5e56f4de5.json",
+					"name" : "01-helloQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Dev/Github/QT-Notes/01-Basics/01-helloQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
