@@ -1,8 +1,0 @@
-# ninja log v5
-1	181	6882284304528921	01-helloQT_autogen/timestamp	6051ca5809c043f2
-1	181	6882284304528921	01-helloQT_autogen/mocs_compilation.cpp	6051ca5809c043f2
-1	181	6882284304528921	C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/01-helloQT_autogen/timestamp	6051ca5809c043f2
-1	181	6882284304528921	C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/01-helloQT_autogen/mocs_compilation.cpp	6051ca5809c043f2
-182	231	6882284305662634	CMakeFiles/01-helloQT.dir/01-helloQT_autogen/mocs_compilation.cpp.obj	38d6597071221e7d
-186	1595	6882284319287237	CMakeFiles/01-helloQT.dir/main.cpp.obj	9ea9f89bf93cdd3d
-1600	1716	6882284320530273	01-helloQT.exe	4a7275910a56b56a

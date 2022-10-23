@@ -1,9 +1,0 @@
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/01-helloQT.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/01-helloQT_autogen_timestamp_deps.dir
-C:/Dev/Github/QT-Notes/01-Basics/build-01-helloQT-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/01-helloQT_autogen.dir
