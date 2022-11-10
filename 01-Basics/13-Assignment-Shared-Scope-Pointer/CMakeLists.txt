@@ -16,6 +16,8 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(13-Assignment-Shared-Scope-Pointer
   main.cpp
+  test.cpp
+  test.h
 )
 target_link_libraries(13-Assignment-Shared-Scope-Pointer Qt${QT_VERSION_MAJOR}::Core)
 
